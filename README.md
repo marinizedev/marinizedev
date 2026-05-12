@@ -15,7 +15,19 @@
 
 ---
 
-## Sobre mim
+### 👋 Olá, eu sou Marinize!
+
+- 🎓 Estudante de ADS — UniFECAF EAD · Matrinchã, Goiás
+- 🔭 Construindo projetos de Engenharia de Dados e Analytics Engineering
+- 🌱 Aprendendo Docker e aprofundando Data Warehouse
+- 🏆 Sistema de automação financeira em uso real — validado por contador responsável
+- 🚀 Pipeline com dados da ANS avaliado com aderência técnica em processo seletivo real
+- 💡 Me pergunte sobre Python, SQL, FastAPI, ETL e modelagem dimensional
+- 📫 marinize.santana.dev@gmail.com
+
+---
+
+### Sobre mim
 
 Antes de escrever uma query ou modelar um banco, preciso entender o problema.
 Essa forma de pensar me leva a construir soluções mais coerentes — e que realmente funcionam.
@@ -27,7 +39,7 @@ Cada projeto nasce de um problema real. Cada decisão técnica é documentada.
 
 ---
 
-## Stack
+### 🛠️ Stack
 
 **Dados & Modelagem**
 
@@ -57,75 +69,23 @@ Cada projeto nasce de um problema real. Cada decisão técnica é documentada.
 
 ---
 
-## Projetos em destaque
+### 📌 Projetos em destaque
 
-### ☕ Aurora Coffee BI
-> Analytics Engineering end-to-end — simulação de dados, Star Schema, FastAPI e Power BI
-
-Stack: `Python` `MySQL` `SQLAlchemy` `FastAPI` `Power BI`
-
-[![Repositório](https://img.shields.io/badge/GitHub-aurora--coffee--bi-black?logo=github)](https://github.com/marinizedev/aurora-coffee-bi)
-
----
-
-### 🏥 Pipeline de Dados — ANS
-> Pipeline ponta a ponta com dados públicos reais — avaliado com aderência técnica em processo seletivo
-
-Stack: `Python` `Pandas` `MySQL` `SQLAlchemy` `FastAPI`
-
-[![Repositório](https://img.shields.io/badge/GitHub-estagio--intuitivecare--dados-black?logo=github)](https://github.com/marinizedev/data-pipeline-fastapi-ans)
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [☕ Aurora Coffee BI](https://github.com/marinizedev/aurora-coffee-bi) | Analytics Engineering end-to-end | Python · MySQL · FastAPI · Power BI |
+| [🏥 Pipeline ANS](https://github.com/marinizedev/estagio-intuitivecare-dados) | Pipeline com dados reais — aprovado em processo seletivo | Python · Pandas · MySQL · FastAPI |
+| [📋 Nonprofit Automation](https://github.com/marinizedev/nonprofit-financial-report-automation) | Automação financeira em uso real — validado por contador | Python · Pandas · openpyxl · PDF |
+| [🏢 Simulador OOP](https://github.com/marinizedev/oop-rental-budget-simulator) | OOP + Flask + Deploy em produção | Python · Flask · JavaScript |
+| [📊 Monte Carlo](https://github.com/marinizedev/finance-analytics-pipeline) | Simulação probabilística de risco financeiro | Python · Pandas · Matplotlib |
+| [🛒 VivaMais Relacional](https://github.com/marinizedev/projeto-sql-vivamais) | Modelagem relacional completa | MySQL · SQL · DER/MER |
+| [📐 VivaMais BI](https://github.com/marinizedev/datamart_vendas_sql) | Data Mart de Vendas — Star Schema Kimball | MySQL · SQL · Star Schema |
 
 ---
 
-### 📋 Nonprofit Financial Report Automation
-> Sistema de automação financeira e documental em uso real — validado por contador responsável
+### 🎓 Formação
 
-Stack: `Python` `Pandas` `openpyxl` `ReportLab` `PyPDF2`
-
-[![Repositório](https://img.shields.io/badge/GitHub-nonprofit--financial--report--automation-black?logo=github)](https://github.com/marinizedev/nonprofit-financial-report-automation)
-
----
-
-### 🏢 Simulador de Orçamento Imobiliário
-> OOP, Flask e deploy em produção — arquitetura em 3 camadas
-
-Stack: `Python` `Flask` `OOP` `JavaScript`
-
-[![Repositório](https://img.shields.io/badge/GitHub-oop--rental--budget--simulator-black?logo=github)](https://github.com/marinizedev/oop-rental-budget-simulator)
-[![Deploy](https://img.shields.io/badge/Deploy-Online-brightgreen)](https://simulador-aluguel.onrender.com)
-
----
-
-### 📊 Simulador Financeiro — Monte Carlo
-> Análise probabilística de risco financeiro com origem em problema real
-
-Stack: `Python` `Pandas` `Matplotlib` `Monte Carlo`
-
-[![Repositório](https://img.shields.io/badge/GitHub-finance--analytics--pipeline-black?logo=github)](https://github.com/marinizedev/finance-analytics-pipeline)
-
----
-
-### 🛒 Banco Relacional — VivaMais
-> Modelagem relacional completa — conceitual, lógica e física, normalização e SQL analítico
-
-Stack: `MySQL` `SQL` `Modelagem Relacional` `DER/MER` `brModelo`
-
-[![Repositório](https://img.shields.io/badge/GitHub-projeto--sql--vivamais-black?logo=github)](https://github.com/marinizedev/projeto-sql-vivamais)
-
----
-
-### 📐 Modelagem Dimensional — VivaMais BI
-> Data Mart de Vendas com Star Schema seguindo metodologia Kimball — base para BI e OLAP
-
-Stack: `MySQL` `SQL` `Star Schema` `Kimball` `Dimensional Modeling`
-
-[![Repositório](https://img.shields.io/badge/GitHub-datamart__vendas__sql-black?logo=github)](https://github.com/marinizedev/datamart_vendas_sql)
-
----
-
-## Formação
-
-🎓 **Análise e Desenvolvimento de Sistemas** — UniFECAF EAD
+**Análise e Desenvolvimento de Sistemas** — UniFECAF EAD
 Previsão: dezembro de 2027 · Foco em Banco de Dados, SQL, Python e Modelagem de Dados
 
 ---
