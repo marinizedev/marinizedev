@@ -1,7 +1,7 @@
 <h1 align="center">Marinize Santana</h1>
 
 <p align="center">
-  <em>Engenheira de Dados · Analytics Engineer · Backend de Dados</em>
+  <em>Engenheira de Dados · Python, SQL, Spark, ETL/ELT, FastAPI · Pipelines de Dados (Batch & Streaming) · Docker, CI/CD</em>
 </p>
 
 <p align="center">
@@ -18,11 +18,14 @@
 ### 👋 Olá, eu sou Marinize!
 
 - 🎓 Estudante de ADS — UniFECAF EAD · Matrinchã, Goiás
-- 🔭 Construindo projetos de Engenharia de Dados e Analytics Engineering
-- 🌱 Aprendendo Docker e aprofundando Data Warehouse
+- 🔭 Buscando primeiro cargo formal em Engenharia de Dados, Analytics Engineering ou Backend de Dados — remoto
 - 🏆 Sistema de automação financeira em uso real — validado por contador responsável
 - 🚀 Pipeline com dados da ANS avaliado com aderência técnica em processo seletivo real
-- 💡 Me pergunte sobre Python, SQL, FastAPI, ETL e modelagem dimensional
+- 📊 Dashboard de Data Storytelling (ANS Complaints Insights) publicado no Hugging Face Spaces
+- ✅ Pipelines com testes automatizados (Pytest) e Integração Contínua (GitHub Actions)
+- 🐳 Containerização e deploy com Docker
+- 🤝 Aurora Coffee BI validado com ferramenta de qualidade de dados de um colega da comunidade (EDAP), que confirmou a necessidade de deduplicação; investigação e correção da causa raiz — granularidade da tabela fato, ETL e um bug de locale/tipagem no Power BI — conduzidas por mim
+- 💡 Me pergunte sobre Python, SQL, Spark, FastAPI, ETL/ELT e modelagem dimensional
 - 📫 marinize.santana.dev@gmail.com
 
 ---
@@ -51,20 +54,25 @@ Cada projeto nasce de um problema real. Cada decisão técnica é documentada.
 **Engenharia de Dados**
 
 ![Python](https://img.shields.io/badge/Python-informational?logo=python&color=3776AB)
+![PySpark](https://img.shields.io/badge/PySpark-informational?logo=apachespark&color=E25A1C)
 ![Pandas](https://img.shields.io/badge/Pandas-informational?logo=pandas&color=150458)
-![ETL](https://img.shields.io/badge/ETL-informational&color=555)
+![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-informational&color=555)
 ![FastAPI](https://img.shields.io/badge/FastAPI-informational?logo=fastapi&color=009688)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-informational&color=red)
 
 **Análise & Visualização**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-informational?logo=powerbi&color=F2C811)
+![Streamlit](https://img.shields.io/badge/Streamlit-informational?logo=streamlit&color=FF4B4B)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-informational&color=11557C)
 
 **Boas Práticas**
 
 ![Git](https://img.shields.io/badge/Git-informational?logo=git&color=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-informational?logo=github&color=181717)
+![Docker](https://img.shields.io/badge/Docker-informational?logo=docker&color=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-informational?logo=githubactions&color=2088FF)
+![Pytest](https://img.shields.io/badge/Pytest-Testing-informational?logo=pytest&color=0A9EDC)
 ![Arquitetura Modular](https://img.shields.io/badge/Arquitetura%20Modular-SRP-informational&color=555)
 
 ---
@@ -73,8 +81,9 @@ Cada projeto nasce de um problema real. Cada decisão técnica é documentada.
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [☕ Aurora Coffee BI](https://github.com/marinizedev/aurora-coffee-bi) | Analytics Engineering end-to-end | Python · MySQL · FastAPI · Power BI |
-| [🏥 Pipeline ANS](https://github.com/marinizedev/estagio-intuitivecare-dados) | Pipeline com dados reais — aprovado em processo seletivo | Python · Pandas · MySQL · FastAPI |
+| [☕ Aurora Coffee BI](https://github.com/marinizedev/aurora-coffee-bi) | Analytics Engineering end-to-end, com pipeline validado, testes automatizados e CI/CD | Python · MySQL · FastAPI · Power BI · Pytest · GitHub Actions |
+| [📊 ANS Complaints Insights](https://huggingface.co/spaces/marinizeeng/ans-complaints-insights) | Data Storytelling sobre reclamações de planos de saúde — dashboard interativo | Python · Streamlit · Plotly · Docker · Pytest |
+| [🏥 Pipeline ANS](https://github.com/marinizedev/data-pipeline-fastapi-ans) | Pipeline com dados reais — aprovado em processo seletivo | Python · Pandas · MySQL · FastAPI |
 | [📋 Nonprofit Automation](https://github.com/marinizedev/nonprofit-financial-report-automation) | Automação financeira em uso real — validado por contador | Python · Pandas · openpyxl · PDF |
 | [🏢 Simulador OOP](https://github.com/marinizedev/oop-rental-budget-simulator) | OOP + Flask + Deploy em produção | Python · Flask · JavaScript |
 | [📊 Monte Carlo](https://github.com/marinizedev/finance-analytics-pipeline) | Simulação probabilística de risco financeiro | Python · Pandas · Matplotlib |
