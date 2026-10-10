@@ -1,104 +1,164 @@
-<h1 align="center">Marinize Santana</h1>
+<div align="center">
 
-<p align="center">
-  <em>Engenheira de Dados · Python, SQL, Spark, ETL/ELT, FastAPI · Pipelines de Dados (Batch & Streaming) · Docker, CI/CD</em>
-</p>
+# Marinize Santana
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/marinize-santana-47bb2b372">
-    <img src="https://img.shields.io/badge/LinkedIn-Marinize%20Santana-blue?logo=linkedin">
-  </a>
-  <a href="mailto:marinize.santana.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-marinize.santana.dev%40gmail.com-red?logo=gmail">
-  </a>
-</p>
+### Engenharia de Dados em formação · Python · SQL · PySpark · ETL · Qualidade de Dados
 
----
-
-### 👋 Olá, eu sou Marinize!
-
-- 🎓 Estudante de ADS — UniFECAF EAD · Matrinchã, Goiás
-- 🔭 Buscando primeiro cargo formal em Engenharia de Dados, Analytics Engineering ou Backend de Dados — remoto
-- 🏆 Sistema de automação financeira em uso real — validado por contador responsável
-- 🚀 Pipeline com dados da ANS avaliado com aderência técnica em processo seletivo real
-- 📊 Dashboard de Data Storytelling (ANS Complaints Insights) publicado no Hugging Face Spaces
-- ✅ Pipelines com testes automatizados (Pytest) e Integração Contínua (GitHub Actions)
-- 🐳 Containerização e deploy com Docker
-- 🤝 Aurora Coffee BI validado com ferramenta de qualidade de dados de um colega da comunidade (EDAP), que confirmou a necessidade de deduplicação; investigação e correção da causa raiz — granularidade da tabela fato, ETL e um bug de locale/tipagem no Power BI — conduzidas por mim
-- 💡 Me pergunte sobre Python, SQL, Spark, FastAPI, ETL/ELT e modelagem dimensional
-- 📫 marinize.santana.dev@gmail.com
+<p>
+<a href="https://www.linkedin.com/in/marinize-santana-47bb2b372">LinkedIn</a>
+  ·
+  <a href="https://github.com/marinizedev">GitHub</a>
+  ·
+  <a href="mailto:marinize.santana.dev@gmail.com">E-mail</a>
+  ·
+  <a href="https://marinizedev.github.io/portfolio/">Portfólio</a>
+</p> </div>
 
 ---
 
-### Sobre mim
+## Antes do insight, existe uma investigação
 
-Antes de escrever uma query ou modelar um banco, preciso entender o problema.
-Essa forma de pensar me leva a construir soluções mais coerentes — e que realmente funcionam.
+Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvo projetos autorais em Engenharia de Dados, Analytics Engineering e desenvolvimento de soluções orientadas a dados.
 
-Trabalho com dados desde a concepção até a entrega: modelagem relacional e dimensional,
-construção de pipelines, análise exploratória e APIs de integração.
+Minha forma de trabalhar começa antes da query: procuro entender a origem, o contexto e a qualidade do dado antes de definir uma transformação, uma métrica ou uma arquitetura.
 
-Cada projeto nasce de um problema real. Cada decisão técnica é documentada.
+> Um pipeline executar sem erro não significa necessariamente que os dados estejam corretos.
 
----
+Por isso, meus projetos combinam **investigação, modelagem, validação, testes, documentação e entrega**.
 
-### 🛠️ Stack
+## O que venho construindo
 
-**Dados & Modelagem**
+- Pipelines de dados com Python, SQL, Pandas e PySpark;
 
-![SQL](https://img.shields.io/badge/SQL-informational?logo=postgresql&color=336791)
-![MySQL](https://img.shields.io/badge/MySQL-informational?logo=mysql&color=4479A1)
-![Modelagem Relacional](https://img.shields.io/badge/Modelagem%20Relacional-informational&color=555)
-![Star Schema](https://img.shields.io/badge/Star%20Schema-Kimball-informational&color=555)
+- Modelagem relacional e dimensional, incluindo Star Schema;
 
-**Engenharia de Dados**
+- Processos de ETL/ELT e arquitetura Medallion;
 
-![Python](https://img.shields.io/badge/Python-informational?logo=python&color=3776AB)
-![PySpark](https://img.shields.io/badge/PySpark-informational?logo=apachespark&color=E25A1C)
-![Pandas](https://img.shields.io/badge/Pandas-informational?logo=pandas&color=150458)
-![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-informational&color=555)
-![FastAPI](https://img.shields.io/badge/FastAPI-informational?logo=fastapi&color=009688)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-informational&color=red)
+- Análise exploratória, Data Storytelling e dashboards interativos;
 
-**Análise & Visualização**
+- APIs REST e aplicações web orientadas a dados;
 
-![Power BI](https://img.shields.io/badge/Power%20BI-informational?logo=powerbi&color=F2C811)
-![Streamlit](https://img.shields.io/badge/Streamlit-informational?logo=streamlit&color=FF4B4B)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-informational&color=11557C)
+- Testes automatizados, logging, Docker e CI/CD;
 
-**Boas Práticas**
+- Soluções que conectam dados, regras de negócio e problemas reais.
 
-![Git](https://img.shields.io/badge/Git-informational?logo=git&color=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-informational?logo=github&color=181717)
-![Docker](https://img.shields.io/badge/Docker-informational?logo=docker&color=2496ED)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-informational?logo=githubactions&color=2088FF)
-![Pytest](https://img.shields.io/badge/Pytest-Testing-informational?logo=pytest&color=0A9EDC)
-![Arquitetura Modular](https://img.shields.io/badge/Arquitetura%20Modular-SRP-informational&color=555)
+## Projetos públicos em destaque
 
----
+### [ANS Complaints Insights](https://huggingface.co/spaces/marinizeeng/ans-complaints-insights)
 
-### 📌 Projetos em destaque
+Projeto independente de Análise de Dados e Data Storytelling com dados públicos da ANS.
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [☕ Aurora Coffee BI](https://github.com/marinizedev/aurora-coffee-bi) | Analytics Engineering end-to-end, com pipeline validado, testes automatizados e CI/CD | Python · MySQL · FastAPI · Power BI · Pytest · GitHub Actions |
-| [📊 ANS Complaints Insights](https://huggingface.co/spaces/marinizeeng/ans-complaints-insights) | Data Storytelling sobre reclamações de planos de saúde — dashboard interativo | Python · Streamlit · Plotly · Docker · Pytest |
-| [🏥 Pipeline ANS](https://github.com/marinizedev/data-pipeline-fastapi-ans) | Pipeline com dados reais — aprovado em processo seletivo | Python · Pandas · MySQL · FastAPI |
-| [📋 Nonprofit Automation](https://github.com/marinizedev/nonprofit-financial-report-automation) | Automação financeira em uso real — validado por contador | Python · Pandas · openpyxl · PDF |
-| [🏢 Simulador OOP](https://github.com/marinizedev/oop-rental-budget-simulator) | OOP + Flask + Deploy em produção | Python · Flask · JavaScript |
-| [📊 Monte Carlo](https://github.com/marinizedev/finance-analytics-pipeline) | Simulação probabilística de risco financeiro | Python · Pandas · Matplotlib |
-| [🛒 VivaMais Relacional](https://github.com/marinizedev/projeto-sql-vivamais) | Modelagem relacional completa | MySQL · SQL · DER/MER |
-| [📐 VivaMais BI](https://github.com/marinizedev/datamart_vendas_sql) | Data Mart de Vendas — Star Schema Kimball | MySQL · SQL · Star Schema |
+- 151.501 registros e 1.411 operadoras analisadas;
 
----
+- investigação e correção metodológica do IGR agregado;
 
-### 🎓 Formação
+- dashboard com Streamlit e Plotly;
 
-**Análise e Desenvolvimento de Sistemas** — UniFECAF EAD
-Previsão: dezembro de 2027 · Foco em Banco de Dados, SQL, Python e Modelagem de Dados
+- testes automatizados, Docker, GitHub Actions e deploy no Hugging Face Spaces.
 
----
+**Python · Pandas · Streamlit · Plotly · Pytest · Docker · GitHub Actions**
 
-<p align="center">
-  <em>"Antes de escrever uma query, preciso entender o problema."</em>
-</p>
+### [StockFlow](https://github.com/marinizedev/stockflow-inventory-system)
+
+Sistema web de controle de estoque evoluído de uma aplicação acadêmica local para uma aplicação pública.
+
+- PostgreSQL no Neon e deploy no Render com Gunicorn;
+
+- autenticação, autorização por perfil, proteção CSRF e hash de senhas;
+
+- regras transacionais para movimentações de estoque;
+
+- 58 testes automatizados, Bandit, pip-audit e CI/CD;
+
+- perfil DEMO somente para leitura.
+
+**Python · Flask · SQLAlchemy · PostgreSQL · Pytest · GitHub Actions**
+
+### [Aurora Coffee BI](https://github.com/marinizedev/aurora-coffee-bi)
+
+Projeto end-to-end de Analytics Engineering, com geração de dados, ETL, modelagem dimensional, API e camada analítica.
+
+**Python · Pandas · MySQL · FastAPI · Star Schema · Power BI · Pytest**
+
+### [Automação Financeira e Documental](https://github.com/marinizedev/nonprofit-financial-report-automation)
+
+Sistema autoral em uso operacional para automatizar lançamentos, documentos e relatórios financeiros, reduzindo uma rotina mensal de aproximadamente **4–5 horas para poucos minutos**.
+
+**Python · Pandas · openpyxl · PDF · ETL · Validação de Dados**
+
+### [Finance Analytics Pipeline](https://github.com/marinizedev/finance-analytics-pipeline)
+
+Aplicação modular de análise probabilística e risco financeiro, com modelagem orientada a objetos, Monte Carlo, reprodutibilidade, logging e 15 testes automatizados.
+
+**Python · POO · Pandas · Monte Carlo · unittest · Matplotlib**
+
+### [Pipeline de Dados e API REST com FastAPI](https://github.com/marinizedev/data-pipeline-fastapi-ans)
+
+Pipeline inicial desenvolvido com dados públicos da ANS, envolvendo extração, validação, enriquecimento, persistência relacional e disponibilização por API REST.
+
+**Python · Pandas · MySQL · SQLAlchemy · FastAPI**
+
+## Como eu penso
+
+```
+investigar → validar → estruturar → entregar
+```
+
+- **Investigar a origem:** entender o contexto e as limitações da fonte;
+
+- **Validar o caminho:** confrontar camadas, hipóteses, métricas e resultados;
+
+- **Estruturar com intenção:** escolher arquitetura, modelagem e ferramentas conforme o problema;
+
+- **Entregar com responsabilidade:** documentar, testar e tornar a solução reproduzível.
+
+## Stack em contexto
+
+**Dados e processamento**
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white)
+![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-555555)
+
+**Modelagem e aplicações**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=111111)
+
+**Qualidade e entrega**
+
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+## Em evolução
+
+Estou organizando a próxima etapa de um laboratório autoral de Engenharia de Dados: uma Plataforma Analítica ANS ainda em construção e não publicada.
+
+O projeto explora arquitetura Medallion, domínios analíticos, processamento com PySpark, modelagem dimensional e rastreabilidade. Ele representa meu espaço de aprendizado contínuo — não um produto concluído nem uma experiência profissional formal.
+
+## Formação
+
+**Tecnólogo em Análise e Desenvolvimento de Sistemas — UniFECAF**
+Previsão de conclusão: dezembro de 2027
+
+## Vamos conversar?
+
+Estou em busca da minha primeira oportunidade formal em **Engenharia de Dados** ou **Analytics Engineering**, com interesse em pipelines, integração, qualidade, modelagem e plataformas analíticas.
+
+<p>
+<a href="mailto:marinize.santana.dev@gmail.com">Entre em contato por e-mail</a>
+  ·
+  <a href="https://www.linkedin.com/in/marinize-santana-47bb2b372">Conecte-se comigo no LinkedIn</a>
+</p> <div align="center">
+
+> Curiosidade → evidência → arquitetura
+
+</div>
