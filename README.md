@@ -1,18 +1,18 @@
 <div align="center">
 
-# Marinize Santana
-
-### Engenharia de Dados em formação · Python · SQL · PySpark · ETL · Qualidade de Dados
+<img src="assets/banner.svg" alt="Marinize Santana — Engenharia de Dados em formação. Investigar, validar, estruturar, entregar." width="100%">
 
 <p>
-<a href="https://www.linkedin.com/in/marinize-santana-47bb2b372">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/marinize-santana-47bb2b372">LinkedIn</a>
   ·
   <a href="https://github.com/marinizedev">GitHub</a>
   ·
   <a href="mailto:marinize.santana.dev@gmail.com">E-mail</a>
   ·
   <a href="https://marinizedev.github.io/portfolio/">Portfólio</a>
-</p> </div>
+</p>
+
+</div>
 
 ---
 
